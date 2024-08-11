@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <>
      <div>
-<h1>Jsonplaceholder api WIth react redux</h1>
+<h1>Jsonplaceholder api With React Redux</h1>
 
      </div>
     </>
